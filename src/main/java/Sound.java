@@ -56,5 +56,4 @@ public class Sound
     samples = d;
   }
     }
-  }
-}
+
